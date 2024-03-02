@@ -1,4 +1,3 @@
-import tensorflow as tf
 from keras import layers, models
 import os
 import cv2
